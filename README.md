@@ -1,5 +1,17 @@
 ![](https://img.shields.io/badge/python-3.11-blue)
 
+# Idea
+
+- on your Linux PC, raises the `FTP server`
+- on iOS, we set the `FTP client`
+- copy all media from iphones to the computer
+
+> the copied files must have HIEC
+
+- use the current script to aggregate and convert photos and videos.
+
+> I used the application [FTP Manager](https://apps.apple.com/ru/app/ftpmanager-ftp-sftp-client/id525959186)
+
 # Purpose
 
 - It will find all the materials from the folder provided by `SRC DIR` and copy them by shooting date to the folder `DIR DIST`
