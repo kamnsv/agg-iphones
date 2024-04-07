@@ -1,0 +1,8 @@
+appdirs==1.4.4
+click==7.1.2
+colored==1.4.4
+get-video-properties==0.1.1
+pillow==10.3.0
+pymediainfo==5.1.0
+typing-extensions==3.10.0.2
+videoprof==0.3.0
